@@ -13,12 +13,12 @@ https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/
 
 https://orex.github.io/supercell/
 
-
+The structure of the code is based on :https://github.com/orex/supercell/tree/master/data/examples/PbSnTe-SQS 
 #####
 
 Requirement: 
 
-- atat code, add this code to your path : export PATH=$PATH:/home/yourdirectory/atat/sr
+- atat code, add this code to your path : export PATH=$PATH:/home/yourdirectory/atat/src
 - The supercell software. The easiest way is to extract the linux tar.gz file in the current directory (with the other files)
 - In your python env. please install pymatgen and glob using pip. i.e., pip install pymatgen
 
