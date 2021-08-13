@@ -61,8 +61,8 @@ etc.
 
 Running the code:
 
-1) Run the SQS_ranking.bash file (linux env.):
-bash SQS_ranking.bash ### please take care, if your directory contain space it can cause bugs
+1) Run the SQSrank.bash file (linux env.):
+bash SQSrank.bash ### please take care, if your directory contain space it can cause bugs
 2) enter the name of your cif file 
 3) give the size of the supercell you want. You can give several of them (ex: 2x2x1 1x1x2 3x2x1)
 
