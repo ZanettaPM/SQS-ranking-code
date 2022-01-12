@@ -6,7 +6,7 @@ abhishekkt@email.arizona.edu
 Manga, Venkateswara Rao - (manga) <manga@arizona.edu>
 
 #####
-This code combine functions from the atat software and the supercell software using a small python script to change the structure from cartesian to fractionnal coordinates specific to sqs.out files (see atat manual). 
+This code combines functions from the atat software and the supercell software using a small python script to change the structure from cartesian to fractionnal coordinates specific to sqs.out files (see atat manual). 
 The objective is to calculate the sqs ranking (using atat corrdump function) of SQS structures generated with Supercell software
 
 https://www.brown.edu/Departments/Engineering/Labs/avdw/atat/
