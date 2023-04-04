@@ -1,5 +1,5 @@
 
-This code has been created by Zanetta Pierre-Marie, Abhishek Khumar Thakur and  Manga Venkateswara Rao
+This code has been created by Zanetta Pierre-Marie, Abhishek Kumar Thakur and  Manga Venkateswara Rao
 
 pierre.marie.zanetta@gmail.com
 abhishekkt@email.arizona.edu
